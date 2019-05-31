@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://negi.netlify.com',
+  title: 'Blog by Suraj Negi',
+  subtitle: 'Hello World',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'negig',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-141195789-1',
   menu: [
     {
       label: 'Articles',
@@ -23,16 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Suraj Negi',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Hello I am suraj negi',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'surajnegi@outlook.in',
+      twitter: 'itssurajnegi',
+      github: 'LazzyGuy',
+      rss: 'https://negi.netlify.com/rss.xml'
     }
   }
 };
